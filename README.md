@@ -1,4 +1,9 @@
 # No-nonsense Tailwind CSS starter
+
+* CSS files in src/
+* Plain simple public/index.html
+* Auto compile and reloading workflow
+
 Clone or degit the project. Then play with public/index.html and src/styles.css.
 
 ```bash
